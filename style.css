@@ -1,0 +1,14 @@
+*{
+    font-family: Consolas;
+}
+
+body{
+    background-color: #4f6bce;
+    color: #abb2bf;
+    font-size: 17px;
+}
+h1{
+    font-size: 50px;
+    background-color: #3758cf;
+    text-align: center;
+}
